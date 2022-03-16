@@ -1,0 +1,8 @@
+POST http://localhost:8080/
+{
+  "identidade": 1,
+  "nome": "testeteste",
+  "email": "michel@michel.com.br",
+  "ddd": "11",
+  "telefone": "2521-25211"
+}
